@@ -7,6 +7,7 @@
 import numpy as np 
 
 
+
 # In[11]:
 
 
